@@ -1,2 +1,0 @@
-# edureka
-online class
